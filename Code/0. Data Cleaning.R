@@ -19,7 +19,7 @@ make_dir <- function(dir_name) {
 }
 
 ## Set Analysis directory
-setwd("/Users/matthew/Desktop/Research/On Campus Housing/Analysis - GitHub")
+setwd("[SET DIRECTORY]/Analysis")
 
 make_dir("RawData/IPEDS")
 make_dir("RawData/IPEDS/data unzipped")
