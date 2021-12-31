@@ -1,2 +1,2 @@
 # On-Campus-Housing
-This contains the data and code to replicate the results of my on-campus housing research.
+This contains the data and code to replicate the results of my on-campus housing research. To run this code, download the "Code" and "RawData" folders to a folder entiled "Analysis". Then, run "0. Data Cleaning", "1. On Campus Housing Regressions", and "2. Graphics and Tables" in that order, noting that you need to adjust the directory file path at the top of each of these scripts.
